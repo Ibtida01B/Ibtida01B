@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Ibtida01B
+- 👀 I’m interested in ... ML,DL, CP, Robotics, Aeronautics and aviation controls, Radar system, security.
+- 🌱 I’m currently learning ML
+- 💞️ I’m looking to collaborate on ...ML,DL, CP, Robotics, Aeronautics and aviation controls, Radar system, security.
+- 📫 How to reach me : ibtida01.ahmed@gmail.com
